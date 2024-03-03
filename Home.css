@@ -371,6 +371,10 @@
   padding: 0 0 30px;
 }
 
+.w-logo {
+  width: 50% !important;
+}
+
 .u-section-3 .u-image-1 {
   height: 250px;
   margin-top: 0;
