@@ -388,6 +388,11 @@
   width: 50% !important;
 }
 
+.w-logo img {
+  image-rendering: pixelated;
+  object-fit: contain;
+}
+
 .u-section-3 .u-image-1 {
   height: 250px;
   margin-top: 0;
