@@ -1378,7 +1378,9 @@
     padding-left: 20px;
     padding-right: 20px;
   }
-}.u-section-5 .u-sheet-1 {
+}
+
+.u-section-5 .u-sheet-1 {
   min-height: 1447px;
 }
 
@@ -1400,6 +1402,10 @@
   grid-template-columns: repeat(2, calc(50% - 20px));
   min-height: 1049px;
   grid-gap: 40px;
+}
+
+.w-repeater {
+  min-height: auto !important;
 }
 
 .u-section-5 .u-container-layout-1 {
@@ -1507,6 +1513,8 @@
   .u-section-5 .u-repeater-1 {
     grid-template-columns: 100%;
   }
-}.u-section-6 .u-sheet-1 {
+}
+
+.u-section-6 .u-sheet-1 {
   min-height: 400px;
 }
