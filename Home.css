@@ -39,10 +39,6 @@
   padding: 0;
 }
 
-.w-layout .u-btn-2 {
-  padding: 20px 50px 20px 49px !important;
-}
-
 .w-layout .u-btn-2:last-child {
   margin-left: 16px;
 }
@@ -81,6 +77,11 @@
   .u-section-1 .u-container-layout-1 {
     padding-left: 30px;
     padding-right: 30px;
+  }
+
+  .w-layout .u-btn-2 {
+    width: 100%;
+    text-align: center;
   }
   
   .w-layout .u-btn-2:last-child {
