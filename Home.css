@@ -391,6 +391,7 @@
 .w-logo img {
   image-rendering: pixelated;
   object-fit: contain;
+  max-height: 30px;
 }
 
 .u-section-3 .u-image-1 {
