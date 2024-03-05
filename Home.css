@@ -395,6 +395,19 @@
   max-height: 30px;
 }
 
+.w-icon-button {
+  padding-left: 32px !important;
+  padding-right: 32px !important;
+  display: inline-block;
+}
+
+.w-icon-button img {
+  width: 24px;
+  height: 24px;
+  margin-right: 4px;
+  vertical-align: top;
+}
+
 .u-section-3 .u-image-1 {
   height: 250px;
   margin-top: 0;
