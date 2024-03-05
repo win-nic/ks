@@ -391,6 +391,7 @@
 .w-logo img {
   image-rendering: pixelated;
   object-fit: contain;
+  object-position: left;
   max-height: 30px;
 }
 
